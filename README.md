@@ -22,7 +22,7 @@
   <br>
 </p>
 
-<h3 align="center" the others⌨️</h3>
+<h3 align="center">the others⌨️</h3>
 <p align="center">
   <a><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp 
