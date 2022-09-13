@@ -41,7 +41,7 @@
 
 
 ## Web Site
-> [episoden]
+> [Episoden]
 
 ## Instagram
 > [@ricky_lee_124][insta]
