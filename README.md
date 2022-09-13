@@ -34,17 +34,20 @@
   <a><img src="https://img.shields.io/badge/Jmeter-D22128?style=flat-square&logo=Apache JMeter&logoColor=white"/></a>&nbsp
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricklee1998)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=ricklee1998&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
 
 ## Web Site
 > [Episoden]
 
+
 ## Instagram
 > [@ricky_lee_124][insta]
+
+
+## Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricklee1998)](https://github.com/anuraghazra/github-readme-stats)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ricklee1998&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
