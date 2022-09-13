@@ -5,8 +5,8 @@
 
 <p align="center">
   <h3 align="center">🛠 Tech Stack 🛠</h3>
-  <img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/></a>&nbsp 
+  <a><img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <a><img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
