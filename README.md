@@ -1,4 +1,8 @@
-### Ricky Lee
+### 🤞 Nice to meet me, I'm Ricky😎
+<p>
+  <a href="https://episoden.com/main" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/Ricky_Lee_124-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</p>
 ## Hi there✋🏻, I'm Ricky. (Jr.developer)
 
 <h3 align="center">🛠 Tech Stacks 🛠</h3>
@@ -34,13 +38,6 @@
   <a><img src="https://img.shields.io/badge/Jmeter-D22128?style=flat-square&logo=Apache JMeter&logoColor=white"/></a>&nbsp
 </p>
 
-
-## Web Site
-> [Episoden]
-
-
-## Instagram
-> [@ricky_lee_124][insta]
 
 
 ## Stats
