@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Ricky Lee&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=RickyLee%20render&fontSize=90)
 
 ### 🤞 Nice to meet me, I'm Ricky😎
 
