@@ -1,12 +1,11 @@
 ### 🤞 Nice to meet me, I'm Ricky😎
+<div background-color="black">
 <p>
+  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
   <a href="https://episoden.com/main" target="_blank"><img src="https://img.shields.io/badge/Episoden-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/Ricky_Lee_124-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
-</p>
 <h3 align="center">🛠 Tech Stacks 🛠</h3>
 
 <p align="center">
@@ -47,7 +46,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ricklee1998&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
-
+</div>
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
