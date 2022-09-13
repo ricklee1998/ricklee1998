@@ -1,5 +1,6 @@
 ### Ricky Lee
-## Hi there✋🏻, I'm Ricky, a Jr.developer
+## Hi there✋🏻, 
+##      I'm Ricky, a Jr.developer
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
