@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat-square&logo=Vuejs&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/PostgresSQL-4169E1?style=flat-square&logo=PostgresSQL&logoColor=white"/></a>&nbsp 
@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/></a>&nbsp 
 </p>
 
 <!--
