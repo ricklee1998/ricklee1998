@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9b51e0&height=300&section=header&text=Ricky%20Lee&fontColor=eff1ff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=To%20be%20a%20Greate%20Developer!&descAlignY=51&descAlign=65)
 ### 🤞 Nice to meet me, I'm Ricky😎
-<br><br>
+
 <p>
   👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
 </p>
-
+<br><br>
 <h3 align="center">🌍Site&SNS🌏</h3>
 <p align="center">
   <a href="https://episoden.com/main" target="_blank"><img src="https://img.shields.io/badge/Episoden-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
