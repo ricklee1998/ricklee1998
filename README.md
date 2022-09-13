@@ -1,10 +1,12 @@
 ### 🤞 Nice to meet me, I'm Ricky😎
 <p>
-  <a href="https://episoden.com/main" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://episoden.com/main" target="_blank"><img src="https://img.shields.io/badge/Episoden-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/Ricky_Lee_124-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
-## Hi there✋🏻, I'm Ricky. (Jr.developer)
 
+<p>
+  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
+</p>
 <h3 align="center">🛠 Tech Stacks 🛠</h3>
 
 <p align="center">
