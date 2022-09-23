@@ -13,7 +13,6 @@
 </p>
 <h3 align="center">🛠 Tech Stacks 🛠</h3>
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
@@ -37,6 +36,7 @@
 
 <h3 align="center">👻The Others👻</h3>
 <p align="center">
+  <a><img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
