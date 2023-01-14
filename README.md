@@ -8,7 +8,7 @@
 <h3 align="center">🌍Site&SNS🌏</h3>
 <p align="center">
   <a href="https://episoden.com/main" target="_blank"><img src="https://img.shields.io/badge/Episoden-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/Ricky_Lee_124-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  
+  <a href="https://www.instagram.com/ricky_lee_124/" target="_blank"><img src="https://img.shields.io/badge/Ricky_Lee_124-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  
   
 </p>
 <h3 align="center">🛠 Tech Stacks 🛠</h3>
