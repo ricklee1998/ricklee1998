@@ -45,6 +45,7 @@
   <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp 
   <a><img src="https://img.shields.io/badge/Jmeter-D22128?style=flat-square&logo=Apache JMeter&logoColor=white"/></a>&nbsp
   <a><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/></a>&nbsp
+  <a><img src="https://img.shields.io/badge/Lens-3D90CE?style=flat-square&logo=Lens&logoColor=white"/></a>&nbsp
 </p>
 
 <br><br>
